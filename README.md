@@ -5,7 +5,7 @@ Your processes can be more efficient, safe and reliable with autonomy and digiti
 
 For us, it’s the journey that matters, not just the destination.
 
-![ProductInfoImage](../_images/product_slide.gif")
+![ProductInfoImage](_images/product_slide.gif)
 
 
 
